@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807441752667",
+    "project_id": "toca-boca-outfit-ideas-f0647",
+    "storage_bucket": "toca-boca-outfit-ideas-f0647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807441752667:android:8470120d287ecde908157e",
+        "android_client_info": {
+          "package_name": "com.toca.boca.outfit.ideas.naufalharitsstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807441752667-6lcnjgebfgirnsolla8mep0j37srhpm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCac9KoZ5yCgLtYzec0tL2LUDY3geA0t9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807441752667-6lcnjgebfgirnsolla8mep0j37srhpm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
